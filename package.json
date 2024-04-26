@@ -1,7 +1,7 @@
 {
   "name": "Basic-JavaScript-Text-Editor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple JS text editor that shows highlighting for JavaScript code.",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
