@@ -84,7 +84,7 @@ Then navigate to the link provided in the command line.
     By default: http://localhost:8080
 
 ## GitHub repository
-https://github.com/JakebJackson/Basic-JS-Text-Editor
+The GitHub repository can be found [here.](https://github.com/JakebJackson/Basic-JS-Text-Editor)
 
 ## Deployment
 The deployed web application can be found [here.](https://basic-js-text-editor.onrender.com)
@@ -97,7 +97,7 @@ This project is licensed under the MIT.
     
 ## Questions / How to Contribute
     
-If you have any questions about the repository, feel free to open an issue and I will do my best to answer. You can veiw my other work on GitHub [Jakeb Jackson](https://github.com/JakebJackson)
+If you have any questions about the repository, feel free to open an issue and I will do my best to answer. You can veiw my other work on GitHub [Jakeb Jackson.](https://github.com/JakebJackson)
 
 ## Credits
 
